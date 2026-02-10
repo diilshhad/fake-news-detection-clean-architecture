@@ -174,7 +174,7 @@ Below are sample outputs from the Streamlit application showing **Fake** and **R
 
 ## 🎓 Academic & Coursera Submission Note
 
-This project is designed to meet **academic integrity and Coursera submission standards**:
+This project is designed to meet **academic integrity and submission standards of TCS**:
 
 * Original implementation
 * Clean project structure
@@ -196,3 +196,4 @@ This project is intended for **educational purposes only**.
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
+
